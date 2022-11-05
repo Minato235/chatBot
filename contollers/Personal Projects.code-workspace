@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Personal Projects",
+			"path": "C:/Users/Ashish/Downloads/TinDog Start Here/Personal Projects"
+		},
+		{
+			"name": "Node-js",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Personal Projects"
+	}
+}
